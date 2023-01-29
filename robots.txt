@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://do-sensei.github.io//sitemap.xml
